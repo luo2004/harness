@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 2,
+  "channels": {
+    "git": {
+      "enabled": false,
+      "interval": "30m",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0
+    },
+    "webdav": {
+      "enabled": true,
+      "interval": "6h",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0,
+      "lastRunAt": "2026-09-07T11:22:08.906Z",
+      "lastRunStatus": "success",
+      "lastRunMessage": "PUT https://dav.jianguoyun.com/dav/snapshots/sync-78fff335-c255-4148-a963-785b057bee14.json 请求出错: fetch failed",
+      "lastRunHistoryId": "autosync-f80babdf-1797-4178-8c48-69e91f475626"
+    }
+  }
+}

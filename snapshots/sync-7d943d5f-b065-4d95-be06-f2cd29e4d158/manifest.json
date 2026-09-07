@@ -1,0 +1,33 @@
+{
+  "id": "sync-7d943d5f-b065-4d95-be06-f2cd29e4d158",
+  "createdAt": "2026-09-07T12:12:03.517Z",
+  "manifest": {
+    "schemaVersion": 1,
+    "dshVersion": "0.1.2-alpha.1",
+    "platform": "win32",
+    "sectionIds": [
+      "settings",
+      "ui",
+      "providers",
+      "plugins",
+      "prompts",
+      "skills",
+      "agentPresets",
+      "agentInstructions",
+      "self"
+    ],
+    "containsSecrets": false,
+    "transport": "git"
+  },
+  "sectionHashes": {
+    "settings": "9c4ca879769cb54029720d19ba4386c136eb1138453119f17f79b0a68133089c",
+    "ui": "8d238e5b9e24b677b36af61807fed993990008cca18330da73847d93a390a854",
+    "providers": "05521e644ef39ede4d7b11fa7ce0c146f9d58158a83ac755aa026f01e28f147b",
+    "plugins": "c8cafb851472d9813670ded973da5b65383e29a73fd2b122ce755d7cc290c857",
+    "prompts": "23d05fd89e9e61985416d8fb3dfc30e5aae4298aa4f684f2a0391b49d70e8cfd",
+    "skills": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentPresets": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentInstructions": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "self": "269b97199493b4566723eec9aff79b477645c545fda897408c9d499f63289f27"
+  }
+}
