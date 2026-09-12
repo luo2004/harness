@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 3,
+  "transport": "git",
+  "git": {
+    "repoUrl": "https://github.com/luo2004/harness.git"
+  },
+  "webdav": {
+    "url": "https://dav.jianguoyun.com/dav/"
+  }
+}

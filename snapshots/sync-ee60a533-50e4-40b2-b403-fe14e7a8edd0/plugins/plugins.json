@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "name": "dsh-better-reasoning-effort",
+      "version": "0.3.9",
+      "spec": "0.3.9",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-better-reasoning-effort"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dsh-better-sidebar",
+      "version": "0.18.0",
+      "spec": "0.18.0",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-better-sidebar"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dsh-builtin-browser",
+      "version": "0.1.21",
+      "spec": "0.1.21",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-builtin-browser"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dsh-mnemon",
+      "version": "0.5.8",
+      "spec": "0.5.8",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-mnemon"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dsh-rewind-plugin",
+      "version": "0.7.5",
+      "spec": "0.7.5",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-rewind-plugin"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dsh-vision-router",
+      "version": "2.1.6",
+      "spec": "2.1.6",
+      "isBundle": true,
+      "inBundles": [
+        "dsh-vision-router"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "dshmarket",
+      "version": "1.45.1",
+      "spec": "1.45.1",
+      "isBundle": true,
+      "inBundles": [
+        "dshmarket"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "@linxin666/dsh-client-ui-git-graph",
+      "version": "0.3.20",
+      "spec": "0.3.20",
+      "isBundle": true,
+      "inBundles": [
+        "@linxin666/dsh-client-ui-git-graph"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "@liustack/modsearch",
+      "version": "5.10.2",
+      "spec": "5.10.2",
+      "isBundle": true,
+      "inBundles": [
+        "@liustack/modsearch"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "@michengai/dsh-archive-manager",
+      "version": "0.1.39",
+      "spec": "0.1.39",
+      "isBundle": true,
+      "inBundles": [
+        "@michengai/dsh-archive-manager"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "@michengai/dsh-skills-manager",
+      "version": "0.1.48",
+      "spec": "0.1.48",
+      "isBundle": true,
+      "inBundles": [
+        "@michengai/dsh-skills-manager"
+      ],
+      "enabled": true
+    },
+    {
+      "name": "@nanmicoder/dsh-agent-teams",
+      "version": "0.1.17",
+      "spec": "0.1.17",
+      "isBundle": true,
+      "inBundles": [
+        "@nanmicoder/dsh-agent-teams"
+      ],
+      "enabled": true
+    }
+  ],
+  "patch": [],
+  "pnpmWorkspace": "packages:\n  - .\n\nnodeLinker: hoisted\nautoInstallPeers: false\n"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "channels": {
+    "git": {
+      "enabled": true,
+      "interval": "6h",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 0,
+      "lastRunAt": "2026-09-12T03:44:06.485Z",
+      "lastRunStatus": "success",
+      "lastRunMessage": "git pull 失败: Command failed: git -c credential.helper= -c credential.helper=store --file=C:/Users/Admin1/AppData/Local/Temp/dsh-git-cred-kPjx9Q/credential pull --ff-only\nfatal: unable to access '[REPO_URL]/': Recv failure: Connection was reset\n",
+      "lastRunHistoryId": "autosync-d0f685a1-79b3-4500-bc3b-e0ae641a024f"
+    },
+    "webdav": {
+      "enabled": true,
+      "interval": "6h",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 4,
+      "lastRunAt": "2026-09-12T03:44:22.173Z",
+      "lastRunStatus": "failed",
+      "lastRunMessage": "连续失败 4 次，已通知",
+      "lastRunHistoryId": "autosync-937c34d6-4a78-4281-adf6-ab6a285a2b78"
+    }
+  }
+}
