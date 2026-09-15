@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "channels": {
+    "git": {
+      "enabled": true,
+      "interval": "6h",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 1,
+      "lastRunAt": "2026-09-15T00:48:43.105Z",
+      "lastRunStatus": "failed",
+      "lastRunMessage": "git pull 失败: Command failed: git -c credential.helper= -c credential.helper=store --file=C:/Users/Admin1/AppData/Local/Temp/dsh-git-cred-OWyYaA/credential pull --ff-only\nfatal: unable to access '[REPO_URL]/': Failed to connect to github.com:443 over proxy 127.0.0.1 after 2058 ms: Could not connect to server\n",
+      "lastRunHistoryId": "autosync-fb35229e-27d4-43fc-9796-2a6ff29eaeec"
+    },
+    "webdav": {
+      "enabled": true,
+      "interval": "6h",
+      "startupMinIntervalMs": 300000,
+      "consecutiveFailures": 10,
+      "lastRunAt": "2026-09-15T00:49:02.506Z",
+      "lastRunStatus": "failed",
+      "lastRunMessage": "连续失败 10 次，已通知",
+      "lastRunHistoryId": "autosync-191c7681-e30d-4fe4-9571-012844295fde"
+    }
+  }
+}
