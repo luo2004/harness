@@ -1,0 +1,36 @@
+{
+  "id": "sync-4c56a4cb-aa24-4dc2-abc4-0becdbfea3e7",
+  "createdAt": "2026-11-24T06:17:28.359Z",
+  "manifest": {
+    "schemaVersion": 1,
+    "dshVersion": "0.2.2-alpha.2",
+    "platform": "win32",
+    "sectionIds": [
+      "settings",
+      "ui",
+      "providers",
+      "plugins",
+      "prompts",
+      "skills",
+      "agentPresets",
+      "agentInstructions",
+      "self"
+    ],
+    "containsSecrets": false,
+    "transport": "git",
+    "sourceHome": "C:\\Users\\Admin1\\AppData\\Roaming\\dsh-desktop\\harness",
+    "deviceId": "f3a32ef8-b481-4964-8853-e86a97563ad5",
+    "deviceName": "Luoyang"
+  },
+  "sectionHashes": {
+    "settings": "4af1b0de144aa6547880733987f14b72eb043afc46e1bfb351793a96c5256700",
+    "ui": "80978e7be56d94ff304f33196edab63d0a88159963ec4e66165754366dafa856",
+    "providers": "8d7124c061c8a80f41f21cc39218a7d1e185e8d19d282080fad90d4f934cf2f0",
+    "plugins": "c2fede209b1796f1d7cacc8a409541e92a6080311526dfbc6b3a1a40392453dd",
+    "prompts": "23d05fd89e9e61985416d8fb3dfc30e5aae4298aa4f684f2a0391b49d70e8cfd",
+    "skills": "f7b7e2df53c5112d7663a8ae59ea8315eb1081886e94ce90d50bde04461e8562",
+    "agentPresets": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "agentInstructions": "2fe09dfb1ef1f6216d00cf7c1a1e3380349f61fe0ea40c3ea8dcb76e9d670eea",
+    "self": "1f643c92ccd8730f253e6c214d7d41d56a55e03966cd91a7ad81e500d436e2b2"
+  }
+}
